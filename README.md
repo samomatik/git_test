@@ -1,0 +1,1 @@
+This is Samomatik's first git project! (lol jkz)
